@@ -18,7 +18,9 @@ See Google's [Getting Started](https://developers.google.com/speed/webp/docs/usi
 ## Support
 [WebP caniuse.com stats](https://caniuse.com/#feat=webp)
 
-Although we currently do not have cross-browser support for WebP, Google has provided a number of [fallback options](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp) for you to use.
+![webp caniuse stats](webp-caniuse.png)
+
+Although we currently do not have cross-browser support for WebP, Google has provided a number of [fallback options](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp) for us to use.
 
 ## Testing
 
